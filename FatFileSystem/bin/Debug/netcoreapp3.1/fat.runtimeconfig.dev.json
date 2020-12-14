@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Freel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Freel\\.nuget\\packages"
+    ]
+  }
+}
