@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿using System;
 using System.Runtime.InteropServices;
 using System.Text;
 
@@ -75,7 +75,7 @@ namespace fat.FAT
                       BPB_RootEntCnt = BitConverter.GetBytes((short) 0); //0 для fat32, значение * 32 || BPB_BytsPerSec для fat16/12
                       BPB_TotSec16 = BitConverter.GetBytes((short) 0); //если 0, то BPB_TotSec32 != 0
                       BPB_FATSz16 = BitConverter.GetBytes((short) 0); //для FAT32 => 0
-                      BPB_TotSec32 = BitConverter.GetBytes((int) 2880); //Если BPB_TotSec16 != 0  - > BPB_TotSec32 = 0
+                      BPB_TotSec32 = BitConverter.GetBytes((int) 65536); //Если BPB_TotSec16 != 0  - > BPB_TotSec32 = 0
                   }
               }
         }

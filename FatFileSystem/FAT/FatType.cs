@@ -1,4 +1,4 @@
-﻿﻿namespace fat.FAT
+﻿namespace fat.FAT
 {
     public enum FatType
     {

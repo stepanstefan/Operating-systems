@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Freel\\RiderProjects\\Operating-systems\\FatFileSystem\\fat.csproj": {}
+    "C:\\Study\\2\\fat\\Operating-systems\\FatFileSystem\\fat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Freel\\RiderProjects\\Operating-systems\\FatFileSystem\\fat.csproj": {
+    "C:\\Study\\2\\fat\\Operating-systems\\FatFileSystem\\fat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Freel\\RiderProjects\\Operating-systems\\FatFileSystem\\fat.csproj",
+        "projectUniqueName": "C:\\Study\\2\\fat\\Operating-systems\\FatFileSystem\\fat.csproj",
         "projectName": "fat",
-        "projectPath": "C:\\Users\\Freel\\RiderProjects\\Operating-systems\\FatFileSystem\\fat.csproj",
-        "packagesPath": "C:\\Users\\Freel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Freel\\RiderProjects\\Operating-systems\\FatFileSystem\\obj\\",
+        "projectPath": "C:\\Study\\2\\fat\\Operating-systems\\FatFileSystem\\fat.csproj",
+        "packagesPath": "C:\\Users\\Admistrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Study\\2\\fat\\Operating-systems\\FatFileSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Freel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admistrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

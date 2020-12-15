@@ -11,3 +11,16 @@ C:\Users\Freel\RiderProjects\Operating-systems\FatFileSystem\obj\Debug\netcoreap
 C:\Users\Freel\RiderProjects\Operating-systems\FatFileSystem\obj\Debug\netcoreapp3.1\fat.dll
 C:\Users\Freel\RiderProjects\Operating-systems\FatFileSystem\obj\Debug\netcoreapp3.1\fat.pdb
 C:\Users\Freel\RiderProjects\Operating-systems\FatFileSystem\obj\Debug\netcoreapp3.1\fat.genruntimeconfig.cache
+C:\Study\2\fat\Operating-systems\FatFileSystem\bin\Debug\netcoreapp3.1\fat.exe
+C:\Study\2\fat\Operating-systems\FatFileSystem\bin\Debug\netcoreapp3.1\fat.deps.json
+C:\Study\2\fat\Operating-systems\FatFileSystem\bin\Debug\netcoreapp3.1\fat.runtimeconfig.json
+C:\Study\2\fat\Operating-systems\FatFileSystem\bin\Debug\netcoreapp3.1\fat.runtimeconfig.dev.json
+C:\Study\2\fat\Operating-systems\FatFileSystem\bin\Debug\netcoreapp3.1\fat.dll
+C:\Study\2\fat\Operating-systems\FatFileSystem\bin\Debug\netcoreapp3.1\fat.pdb
+C:\Study\2\fat\Operating-systems\FatFileSystem\obj\Debug\netcoreapp3.1\fat.csprojAssemblyReference.cache
+C:\Study\2\fat\Operating-systems\FatFileSystem\obj\Debug\netcoreapp3.1\fat.AssemblyInfoInputs.cache
+C:\Study\2\fat\Operating-systems\FatFileSystem\obj\Debug\netcoreapp3.1\fat.AssemblyInfo.cs
+C:\Study\2\fat\Operating-systems\FatFileSystem\obj\Debug\netcoreapp3.1\fat.csproj.CoreCompileInputs.cache
+C:\Study\2\fat\Operating-systems\FatFileSystem\obj\Debug\netcoreapp3.1\fat.dll
+C:\Study\2\fat\Operating-systems\FatFileSystem\obj\Debug\netcoreapp3.1\fat.pdb
+C:\Study\2\fat\Operating-systems\FatFileSystem\obj\Debug\netcoreapp3.1\fat.genruntimeconfig.cache
